@@ -17,8 +17,8 @@ public class Main {
     public static void main(String[] args) {
 
         Student s=new Student();
-      //  Student s2=new Student(2012020116);
-        //Student s3=new Student(2012020116,"Maasum");
+        Student s2=new Student(2012020116);
+        Student s3=new Student(2012020116,"Maasum");
         //University name print
         s.display();
 

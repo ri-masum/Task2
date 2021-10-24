@@ -24,9 +24,9 @@ public class Student {
        System.out.println("default constructor");
    }
 
-   Student(int i)
+   Student(int id)
    {
-       i=id;
+       id=id;
        System.out.println("Student ID :"+id);
    }
 
